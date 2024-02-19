@@ -21,18 +21,20 @@
 - Aiming for around 80% conversion rate.
  
 ## Submission
-1. Notebook
-   - Well Commented
-   - Prediction
-   - Evaluation metrics
-2. Subjective Answers (pdf)
-3. Overall Approach
-   - PPT with 10-12 slides
+1. [ ] Notebook (as ipynb)
+   - [x] Data Cleaning
+   - [ ] Univariate/Bivariate Analysis
+   - [x] Modelling
+   - [x] Prediction
+   - [x] Evaluation metrics
+2. [ ] Subjective Answers (as pdf)
+3. [ ] Overall Approach presentation (as pdf)
+   -  PPT with 10-12 slides
    - Mention problem statement and analysis
    - Explain results
    - Include visualizations and summaries
-4. Summary Report
-5. `README.md` (Github)
+4. [ ] Summary Report (as pdf)
+5. [x] `README.md` (Github)
 
 
 Links:
