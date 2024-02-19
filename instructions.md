@@ -21,7 +21,7 @@
 - Aiming for around 80% conversion rate.
  
 ## Submission
-1. [ ] Notebook (as ipynb)
+1. [ ] Notebook (as .ipynb)
    - [x] Data Cleaning
    - [ ] Univariate/Bivariate Analysis
    - [x] Modelling
